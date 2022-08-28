@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header start */
+header{
+    color:white;
+    background-color: #007bff;
+    height: 5em;
+    padding-top: 20px;
+  
+
+    
+}
+.name h1{
+    margin-left: 100px;
+    margin-top: 5px;
+   
+    
+}
+.navigation {
+   float: right;
+   margin-right: 80px;
+  
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.navigation a:hover{
+    color: black;
+
+}
+.container{
+    height: 40em;
+}
+.image{
+    width: 50%;
+    float: left;
+}
+img{
+    width: 300px;
+    height: 30em;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.block-quote{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    float: right;
+    margin-top: 200px;
+    margin-right: 250px;
+    font-size: 20px;
+
+}
+#education-container{
+    text-align: center;
+    background-color:#f8f9fa!important;
+    height: 30em;
+}
+#education-container h2{
+    padding-top: 20px;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    height: 5em;
+    
+}
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+  /* Skills start*/
+#skills-container{
+    height: 30em;
+    background-color: #e5eaf0!important;
+  
+}
+#skills-container h2{
+    padding-top: 20px;
+    text-align: center;
+}
+ul{
+  margin-left: 40%;
+  line-height: 2;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* contact section */
+#contact-section{
+    height: 20em;
+    background-color:#b6bdc5!important ;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#contact-section h2{
+    text-align: center;
+    padding-top: 20px;
+}
+.form{
+text-align: center;
+border: 1px solid black;
+   padding-top: 20px;
+
+    height: 15em;
+
+}
+.submit{
+   background-color: #007bff;
+   color: white;
+   border: none;
+   width: 100px;
+   
+}
+footer{
+   
+    background-color:#007bff ;
+    text-align: center;
+height: 10em;
+
+
+}
+
+
+#insta{
+    width: 25px;
+    height: 25px;
+    margin-left: 2px;
+}
+#facebook{
+    width: 25px;
+    height: 25px;
+    margin-left: 2px;
+}
+#twitter{
+    width: 25px;
+    height: 25px;
+    margin-left: 2px;
+}
